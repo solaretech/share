@@ -23,10 +23,10 @@
 
 ## 設計書
 
-###テーブル定義書
+### テーブル定義書
 https://docs.google.com/spreadsheets/d/1LYqg9_m3F2C-h7IdGrCEfqE2TGRQ7M40ZLZ7X78nC9k/edit#gid=0
 
-###アプリケーション詳細設定
+### アプリケーション詳細設定
 https://docs.google.com/spreadsheets/d/1vm3xRsDLbcfk9r_6BwsIwLkrLEeE2rE-/edit#gid=549108681
 
 ### 機能一覧
