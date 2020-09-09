@@ -22,13 +22,13 @@
  遊ぶ場所がみつからない時、他の人のおすすめの場所が知りたいとき（暗証番号を教えてもらう必要がある）に利用する
 
 ## 設計書
-テーブル定義書
-<https://docs.google.com/spreadsheets/d/1LYqg9_m3F2C-h7IdGrCEfqE2TGRQ7M40ZLZ7X78nC9k/edit#gid=0>
-アプリケーション詳細設定
-<https://docs.google.com/spreadsheets/d/1vm3xRsDLbcfk9r_6BwsIwLkrLEeE2rE-/edit#gid=549108681>
+###テーブル定義書
+https://docs.google.com/spreadsheets/d/1LYqg9_m3F2C-h7IdGrCEfqE2TGRQ7M40ZLZ7X78nC9k/edit#gid=0
+###アプリケーション詳細設定
+https://docs.google.com/spreadsheets/d/1vm3xRsDLbcfk9r_6BwsIwLkrLEeE2rE-/edit#gid=549108681
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1rLaJbu6aZQmZWngOOSBoCo98-RGSIMjjRBgBELwcvVY/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1rLaJbu6aZQmZWngOOSBoCo98-RGSIMjjRBgBELwcvVY/edit#gid=0
 
 ## 開発環境
 - ターミナルエミュレーター:TeraTerm
